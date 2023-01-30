@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>JRebel and XRebel for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/jrebel-and-xrebel-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/pluginIcon_transparent.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mrasmussenton/listings&quot; title=&quot;Michael Rasmussen&quot;&gt;Michael Rasmussen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-01-25 08:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2022-07-08 06:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Perforce%20Software%22&quot;&gt;Perforce Software&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.jrebel.com/&quot; rel=&quot;nofollow&quot;&gt;JRebel&lt;/a&gt; is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. JRebel enables developers to get more done in the same amount of time and stay in the flow while coding. JRebel supports a majority of real-world enterprise java stacks and is easy to install into existing development environments.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.xrebel.com&quot; rel=&quot;nofollow&quot;&gt;XRebel&lt;/a&gt; is a performance tool for Java development which gives developers real time performance insights to help them understand and resolve potential issues faster and earlier, during the development phase.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 25 Jan 2011 13:59:21 +0000</pubDate>
+ <dc:creator>mrasmussenton</dc:creator>
+ <guid isPermaLink="false">29591 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/jrebel-and-xrebel-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Teamscale Integration for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/teamscale-integration-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/logo_114.png&quot; width=&quot;110&quot; height=&quot;25&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tkinnen/listings&quot; title=&quot;Thomas Kinnen&quot;&gt;Thomas Kinnen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-02-12 10:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2022-07-07 09:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22CQSE%20GmbH%22&quot;&gt;CQSE GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &lt;em&gt;Teamscale Integration for Eclipse&lt;/em&gt; allows for seamless browsing of quality defects found by the &lt;a href=&quot;https://www.teamscale.com/&quot; rel=&quot;nofollow&quot;&gt;Teamscale software‐quality analysis server&lt;/a&gt;. Teamscale analyzes your source code incrementally with every commit, providing feedback on the quality of your code in near real‐time. (&lt;strong&gt;Note: An existing Teamscale Server is necessary to use this plugin!&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;This plugin has the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Auto‐detect which branch is being used (Git &amp;amp; Subclipse/Subversive) and display all data accordingly&lt;/li&gt;
+&lt;li&gt;Display defects in the &lt;em&gt;Findings&lt;/em&gt; view&lt;/li&gt;
+&lt;li&gt;Allow comparison of clones using the clone compare editor&lt;/li&gt;
+&lt;li&gt;Display findings next to your code&lt;/li&gt;
+&lt;li&gt;Flag findings as tolerated or false-positive&lt;/li&gt;
+&lt;li&gt;Use baselines to only display defects that are new&lt;/li&gt;
+&lt;li&gt;Show test coverage from Teamscale server&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To get started, Just follow the &lt;a href=&quot;https://cqse.eu/get-eclipse&quot; rel=&quot;nofollow&quot;&gt;installation guide&lt;/a&gt; and start using the Teamscale Integration in your Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&quot;https://docs.teamscale.com/changelog/&quot; rel=&quot;nofollow&quot;&gt;changelog&lt;/a&gt; to find out what’s new.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 12 Feb 2015 15:16:07 +0000</pubDate>
+ <dc:creator>tkinnen</dc:creator>
+ <guid isPermaLink="false">2188950 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/teamscale-integration-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Appium Studio for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/appium-studio-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/appium%20studio%20for%20eclipse%20logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/rzamir/listings&quot; title=&quot;ruth zamir&quot;&gt;ruth zamir&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2018-01-18 02:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2022-07-07 00:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Experitest%22&quot;&gt;Experitest&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h2&gt;Easily develop, execute, analyze and debug your tests on remote physical devices&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;End-to-end mobile test automation from Eclipse&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Perform test development, automation project development, and test execution on remote devices in the Digital Device Lab with a single tool with rich views and editors fully embedded in Eclipse for digital test automation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Record or Develop Appium Tests&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open a real remote device from within your IDE. Record your actions - a test is created automatically. Play back for instant test validation, edit and further develop the test and Export code in the language and framework of your choice. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Immediate visual feedback&lt;/strong&gt;&lt;br /&gt;
+Easily create robust and maintainable tests with a dynamic device reflection that provides immediate visual feedback on all actions. Project development is further streamlined with code snippets and automatically generated Eclipse framework assets such as properties &amp;amp; configuration files.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Powerful object identification&lt;/strong&gt;&lt;br /&gt;
+Enjoy powerful object identification and management, that identify objects by their native/web properties, including image/OCR and customized UI. Write scripts with drag and drop script editor.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Create stable automation&lt;/strong&gt;&lt;br /&gt;
+Leverage pre-configured Eclipse project framework assets for mobile including code snippets, properties &amp;amp; configuration files to reduce errors and easily create stable projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maximize your test coverage rates&lt;/strong&gt;&lt;br /&gt;
+Achieve high coverage rates by testing outside of your app (SMS, network, settings, Facebook) and 3rd party integrations for complex use cases such as code scanning or fingerprint authentication. Guaranteed rapid version and beta support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Seamlessly integrate with any testing &amp;amp; CI environment&lt;/strong&gt;&lt;br /&gt;
+Create Appium and Selenium test automation, and integrate with any Eclipse plug-in such as Python or Ruby. Integrate with any continuous integration environment to trigger continuous testing as part of the CI process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Parallel test execution&lt;/strong&gt;&lt;br /&gt;
+Intelligent grid execution management allows you to see executions in the real-time view of all executions. Dynamically schedule tests, executions, and distribution. Run multiple CI projects in parallel (multiple applications).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Appium Studio for Eclipse&lt;/strong&gt; allows you to develop and execute tests on remote devices located in the &lt;strong&gt;&lt;a href=&quot;https://experitest.com/mobile-cloud-testing/seetestcloud-online/?utm_source=Eclipse_marketplace&quot; rel=&quot;nofollow&quot;&gt;SaaS Digital Assurance Lab&lt;/a&gt;.&lt;/strong&gt; The Digital Assurance Lab provides access hundreds of browsers &amp;amp; mobile devices hosted in Experitest data centers, from anywhere at anytime. &lt;a href=&quot;https://goo.gl/MSFcFb&quot; rel=&quot;nofollow&quot;&gt;Register&lt;/a&gt; to the Digital Assurance lab for &lt;a href=&quot;https://goo.gl/MSFcFb&quot; rel=&quot;nofollow&quot;&gt;free&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 18 Jan 2018 07:59:34 +0000</pubDate>
+ <dc:creator>rzamir</dc:creator>
+ <guid isPermaLink="false">3879315 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/appium-studio-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Google Cloud Tools for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/google-cloud-tools-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/GCP-Logo.png&quot; width=&quot;91&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/eharold/listings&quot; title=&quot;Elliotte Rusty Harold&quot;&gt;Elliotte Rusty Harold&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-03-02 15:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2022-07-06 16:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Google%20LLC%22&quot;&gt;Google LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Cloud Tools for Eclipse is a Google-sponsored open source plugin that supports the Google Cloud Platform. Cloud Tools for Eclipse enables you to create, import, edit, build, run, debug, and deploy Java servlet applications for the App Engine standard and flexible environments without leaving Eclipse. Cloud Tools for Eclipse also enables you to manage cloud client libraries and create and run Google Cloud Dataflow pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://cloud.google.com/eclipse/docs/release-notes&quot; rel=&quot;nofollow&quot;&gt;Release Notes&lt;/a&gt; | &lt;a href=&quot;https://cloud.google.com/eclipse/docs/&quot; rel=&quot;nofollow&quot;&gt;Documentation&lt;/a&gt; | &lt;a href=&quot;https://github.com/GoogleCloudPlatform/google-cloud-eclipse&quot; rel=&quot;nofollow&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 02 Mar 2017 20:40:51 +0000</pubDate>
+ <dc:creator>eharold</dc:creator>
+ <guid isPermaLink="false">3321165 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/google-cloud-tools-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>jSparrow - Automatic Java Refactoring</title>
+    <link>https://marketplace.eclipse.org/content/jsparrow-automatic-java-refactoring</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/icon-blue_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mprehofer/listings&quot; title=&quot;Michaela Prehofer&quot;&gt;Michaela Prehofer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-20 11:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-07-05 12:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Splendit%20IT-Consulting%20GmbH%22&quot;&gt;Splendit IT-Consulting GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;jSparrow &lt;/strong&gt;detects and automatically replaces bugs and code smells in Java sources with a rule-based approach. jSparrow &lt;strong&gt;improves &lt;/strong&gt;your Java source code and transforms it to Java 8/9/10/11/16 user-guided and secure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Refactor your Java code. Improve code quality. Apply the latest Java features. All automatically.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+jSparrow has now a set of&lt;strong&gt; 114 rules&lt;/strong&gt;, grouped into seven categories, which are designed for applying coding conventions, removing code smells, standardize logging, improving readability, resolving security vulnerabilities, and modernizing your Java codebase. Thus saving maintenance time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Removal &lt;/strong&gt;of potential &lt;strong&gt;bugs and code smells&lt;/strong&gt; is one of the main purposes of jSparrow. jSparrow is very efficient in disposing of these kinds of threats with its rules. You can group the profiles into individual &lt;strong&gt;rule profiles&lt;/strong&gt;, which also can be &lt;strong&gt;exported &lt;/strong&gt;and &lt;strong&gt;imported &lt;/strong&gt;to share them within your development team.&lt;/p&gt;
+&lt;p&gt;Staying up to date with the latest Java standards is normally requiring days of manual software maintenance work. &lt;strong&gt;jSparrow upgrades &lt;/strong&gt;old code-artifacts to new state-of-the-art programming practices. The usage of jSparrow&#039;s &lt;strong&gt;full version&lt;/strong&gt; allows you to save a lot of valuable time while offering the option of &lt;strong&gt;automatically upgrading&lt;/strong&gt; to the latest version of Java within minutes in a safe way.&lt;/p&gt;
+&lt;p&gt;You can then decide if you want to use the jSparrow Free version, as usual, or the new features of jSparrow Starter for automatic refactoring. With jSparrow Starter you will be able to apply 20 rules free of charge. After a short registration, you will get a license key, allowing you to apply the rules on your projects.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Don´t lose time with tedious and repetitive work - let jSparrow do it!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Documentation: &lt;a href=&quot;https://jsparrow.github.io/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rule description: &lt;a href=&quot;https://jsparrow.github.io/rules/&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.github.io/rules/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Get jsparrow: &lt;a href=&quot;https://jsparrow.onfastspring.com/eclipse&quot; rel=&quot;nofollow&quot;&gt;https://jsparrow.onfastspring.com/eclipse&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LATEST VERSION:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;jSparrow Release 4.12.0&lt;/p&gt;
+&lt;p&gt;jSparrow Maven PlugIn 3.19.0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OUR RELEASE POLICY IS AS FOLLOWS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quaterly releases&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We will release at least one new rule in March, June, September, Dezember.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weekly Bugfix &lt;/strong&gt;releases&lt;/p&gt;
+&lt;p&gt;Bugfixes will be released each Thursday&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotfix Releases &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hotfix Releases can be deployed any time (hopefully not necessary)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next Release: &lt;/strong&gt;Thursday 2022-09-15&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 20 Jun 2017 15:34:11 +0000</pubDate>
+ <dc:creator>mprehofer</dc:creator>
+ <guid isPermaLink="false">3503691 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/jsparrow-automatic-java-refactoring#comments</comments>
+  </item>
+  <item>
+    <title>ABAP QuickFix S4 Conversion</title>
+    <link>https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/logo_50.png&quot; width=&quot;110&quot; height=&quot;70&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/lcleuc/listings&quot; title=&quot;Lawrence Cabac&quot;&gt;Lawrence Cabac&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2022-07-01 14:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-07-05 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Adventas%20Consulting%20GmbH%22&quot;&gt;Adventas Consulting GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Direct installation: &lt;a href=&quot;https://leuc.de/abapquickfixs4c/&quot; rel=&quot;nofollow&quot;&gt;https://leuc.de/abapquickfixs4c/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;ABAP Quick Fix S4 Conversion Functions:&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;Convert &lt;em&gt;select single &lt;/em&gt;to &lt;em&gt;select ... up to 1 rows ... order by.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Convert&lt;em&gt; select single &lt;/em&gt;to new style SQL.&lt;/li&gt;
+&lt;li&gt;Convert&lt;em&gt; select/ enselect &lt;/em&gt;to new style SQL.&lt;/li&gt;
+&lt;li&gt;Convert&lt;em&gt; move-corresponding &lt;/em&gt;to &lt;em&gt;corresponding #( ). &lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 01 Jul 2022 18:20:35 +0000</pubDate>
+ <dc:creator>lcleuc</dc:creator>
+ <guid isPermaLink="false">5539840 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion#comments</comments>
+  </item>
+  <item>
+    <title>OpenAPI Editor</title>
+    <link>https://marketplace.eclipse.org/content/openapi-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/about.png&quot; width=&quot;68&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/wjongman/listings&quot; title=&quot;Wim Jongman&quot;&gt;Wim Jongman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2019-03-22 10:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-07-05 07:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Remain%20Software%22&quot;&gt;Remain Software&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OpenAPI editor by Remain OpenAPI Studio. A rich OpenAPI editor and a full OAS3 specs-compliant development environment. This rich OpenAPI editor enables you to create, edit, delete and update OpenAPI schemas, paths, security, servers, examples, tags, and all other components as defined by the OAS3 specs.&lt;/p&gt;
+&lt;p&gt;The OpenAPI editor by Remain OpenAPI Studio also offers, out of the box,  a mock server, API testing, schemas, and full OpenAPI files imports and exports,  source code generation for all popular languages, and frameworks for both client and server sides.&lt;/p&gt;
+&lt;p&gt;OpenAPI editor by Remain OpenAPI Studio includes built-in documentation for all parts of the OAS3/OpenAPI specs.&lt;/p&gt;
+&lt;p&gt;The visual OpenAPI editor enables you to inspect and edit your OpenAPI specification in a human-readable way. No more wading around in JSON or YAML unless you want to.&lt;/p&gt;
+&lt;p&gt;The OpenAPI editor includes the Swagger UI for integrated API testing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Try our OpenAPI editor for free!!! &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/remain-api-studio-download &quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Download the standalone Remain OpenAPI Studio product &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorLicensing/OpenAPI_EditorLicensing.html?cp=0_0_3&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;How to activate my trial license&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#nav/0_0&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;OpenAPI editor usage wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt; &lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;Remain OpenAPI Studio &amp;amp; Test Release Features:&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;OpenAPI Editor v3.1.0&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve fixed some bugs.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;OpenAPI Editor v3.0.3&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve upgraded the source code generator CLI.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;We&#039;ve also resolved other server-side issues.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;OpenAPI Editor v3.0.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve upgraded the OpenAPI JSON editor with a much better and more efficient editor.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;We&#039;ve also resolved many other client and server-side issues.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;OpenAPI Editor v3.0.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorValidation/OpenAPI_EditorValidation.html?cp=0_0_21&quot; rel=&quot;nofollow&quot;&gt;OpenAPI Document Validation&lt;/a&gt;: We&#039;ve introduced the ability to validate parts of your OpenAPI document including:
+&lt;ul&gt;&lt;li&gt;Document Info (which is shown in the OpenAPI Studio first tab: Start)&lt;/li&gt;
+&lt;li&gt;Schemas &amp;amp; Schema Properties&lt;/li&gt;
+&lt;li&gt;Paths&lt;/li&gt;
+&lt;li&gt;Operations&lt;/li&gt;
+&lt;li&gt;Parameters, including global parameters&lt;/li&gt;
+&lt;li&gt;Request-bodies including the global ones.&lt;/li&gt;
+&lt;li&gt;Responses including the global responses &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;We&#039;ve added operation ID check and warn prior to operation creation to help avoid ID collisions.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;We&#039;ve added schema name check and only allow characters allowed by the specs in this matter.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;We&#039;ve enforced the OpenAPI specs in the editor&#039;s parameters UI section. Now we only show applicable styles choices per parameter location.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;We&#039;ve also resolved many other issues&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;OpenAPI Editor v2.1.0 &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorOpenAPI_Test/OpenAPI_EditorOpenAPI_Test.html?cp=0_0_21&quot; rel=&quot;nofollow&quot;&gt;API testing&lt;/a&gt;: Existing methods update made possible.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/wiki/index.php/OAS:OpenAPI_Editor/Source_Code/Show_In_Component_Source_View&quot; rel=&quot;nofollow&quot;&gt;Component source&lt;/a&gt;: Component source can now be triggered from the context menu.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_5#Update_Schema&quot; rel=&quot;nofollow&quot;&gt;Schema attributes view&lt;/a&gt; revamped. It shows now the schema format as well so that it can be edited.&lt;/li&gt;
+&lt;li&gt;Many more backend improvements and bug resolution.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;OpenAPI Editor v2.0.3 &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorOpenAPI_Test/OpenAPI_EditorOpenAPI_Test.html?cp=0_0_21&quot; rel=&quot;nofollow&quot;&gt;API Test&lt;/a&gt;: Improved.&lt;/li&gt;
+&lt;li&gt;OpenAPI studio installation improved.&lt;/li&gt;
+&lt;li&gt;Many more backend improvements and bug resolution.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;OpenAPI Editor v2.0.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorOpenAPI_Test/OpenAPI_EditorOpenAPI_Test.html?cp=0_0_21&quot; rel=&quot;nofollow&quot;&gt;API Test&lt;/a&gt;: Edit existing methods fields.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorResponses/OpenAPI_EditorResponses.html?cp=0_0_10&quot; rel=&quot;nofollow&quot;&gt;Global responses support&lt;/a&gt;: You can now define global responses and easily reuse them elsewhere in your OpenAPI document to avoid repetition and double maintenance.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorCallbacks/OpenAPI_EditorCallbacks.html?cp=0_0_16&quot; rel=&quot;nofollow&quot;&gt;Global callbacks support&lt;/a&gt;: Now, it&#039;s possible to define global callbacks and easily reuse them elsewhere in your OpenAPI document.&lt;/li&gt;
+&lt;li&gt;Global components deletion sync: When deleting a global component, be it a parameter, request body, or response, the user has now the choice to keep or delete references to this global component.&lt;/li&gt;
+&lt;li&gt;We&#039;ve also implemented many backend enhancements and fixed many open issues.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;OpenAPI Editor v2.0.1&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorOpenAPI_Test/OpenAPI_EditorOpenAPI_Test.html?cp=0_0_22&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Full-fledged Testing Capabilities&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;HTTP Request Client: with all needed input and explanatory output UI.&lt;/li&gt;
+&lt;li&gt;Test your whole OpenAPI requests in one go. Or pick just one request or method to test&lt;/li&gt;
+&lt;li&gt;Flexibility to save and organize your test cases and test suites &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorServers/OpenAPI_EditorServers.html?cp=0_0_15&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Mock-server&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;Fully integrated and locally served auto-mock server&lt;/li&gt;
+&lt;li&gt;Auto-mock server that handles requests, callbacks, validates path and incoming parameters, and generates a mock response based on the definitions in your OpenAPI document&lt;/li&gt;
+&lt;li&gt;Run your Remain API test against the auto-mock server&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Schema XML Representation&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve introduced a new tab so that you can define a schema&#039;s XML data format&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorTags/OpenAPI_EditorTags.html?cp=0_0_12&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Global Tags&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve introduced a new tab: Tags, where global tags can be viewed/edited. Overriding tags on the operation level has been improved.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Inline Schema Attributes&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;It&#039;s possible now to view/edit an inline schema in the Attributes view.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorGenerator/OpenAPI_EditorGenerator.html?cp=0_0_18&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Documentations &amp;amp; Configurations Generation&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;Documentations and configurations can now be generated from your OAS3 document.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorWeb/OpenAPI_EditorWeb.html?cp=0_0_16&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;View Docs In Browser&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;The generated docs can also be served and viewed in the browser for ease of use.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSource_Code/OpenAPI_EditorSource_Code.html?cp=0_0_21&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Component Source Code&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;For more development focus, it&#039;s now possible to select one component (e.g., schema, path, operation, security scheme, tag, or server) and view its source code in the component source view. You can also toggle between Yaml and JSON by using the local menu.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Schema Required Properties&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;You can now view/edit the required properties of a schema.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Schema Attributes&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;The attributes tab has been polished. Now, it shows only relevant fields to the selected schema. Additionally, we&#039;ve added the enum and example fields.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorParameters/OpenAPI_EditorParameters.html?cp=0_0_8&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Parameter Style And Explode Fields&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve added support for the parameter style and explode fields.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Attributes View Revamp&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve extended the Schema Attributes view with these three tabs: Properties, Additional Properties, XML, and Discriminator tabs so that you can view/edit an inline schema and drill down schema properties.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorParameters/OpenAPI_EditorParameters.html?cp=0_0_8&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Parameter Content-type&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We now support parameter content type definitions for more granular parameter type control.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Schema Example Generation&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;You can let our OpenAPI studio generate a precise mock example for your schema with one click.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorWeb/OpenAPI_EditorWeb.html?cp=0_0_16&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Web OpenAPI Editor&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;re offering a web OpenAPI editor. We&#039;ve augmented and integrated the Swagger web editor. You can now edit your OpenAPI document from this locally served web editor as well, using your favorite web theme and save your changes back.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorConvert/OpenAPI_EditorConvert.html?cp=0_0_5&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;JSON from/to Yaml&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;With one click, you can now convert your document format between JSON and Yaml without affecting your current document as a new one with the same name and a  different extension (.json/.yaml) will be generated for you.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;External Schema Reference&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;In addition to the current internal schema referencing (schemas in the same document), you can now refer to an external schema, be it on the same file system or remote on another server. A referenced schema data is automatically fetched and shown (currently read-only mode) in views as if it&#039;s an internal schema.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorResponses/OpenAPI_EditorResponses.html?cp=0_0_11&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Response Headers&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve added support for response headers.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Schema Discriminator&lt;/a&gt;
+&lt;ul&gt;&lt;li&gt;We&#039;ve added support for the schema discriminator object and mappings.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;We&#039;ve also implemented many backend enhancements and fixed many open issues&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OpenAPI Editor v1.0.11&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorGenerator/OpenAPI_EditorGenerator.html?cp=0_0_18&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;8 new Generators - Nodejs, PHP, etc..&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorConvert/OpenAPI_EditorConvert.html?cp=0_0_5&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Convert Swagger API to OpenAPI (OAS3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorServers/OpenAPI_EditorServers.html?cp=0_0_15#Circumvent_CORS_restriction_when_testing&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Circumvent CORS restrictions while testing locally&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorGenerator/OpenAPI_EditorGenerator.html?cp=0_0_18&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Server and Client code generators for many languages.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSchemas/OpenAPI_EditorSchemas.html?cp=0_0_6#Extract_Schema_From_JSON_Sample.2FPayload&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Extract  OpenAPI schema from a payload or sample&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorSource_Code/OpenAPI_EditorSource_Code.html?cp=0_0_21&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Show the source. Click from the visual editor to find the correct source location.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://remainsoftware.com/docs/openapi/help/index.jsp#topic/com.remainsoftware.oas3.help/manuals/html/OpenAPI_Editor/OpenAPI_EditorGenerator/OpenAPI_EditorGenerator.html?cp=0_0_18&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Server and client generation from OpenAPI (OAS3) &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;License UI Revamp&lt;/li&gt;
+&lt;li&gt;Integrated Rating and Feedback&lt;/li&gt;
+&lt;li&gt;Support site integration&lt;/li&gt;
+&lt;li&gt;Stability and usage enhancements&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 22 Mar 2019 14:56:15 +0000</pubDate>
+ <dc:creator>wjongman</dc:creator>
+ <guid isPermaLink="false">4556629 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/openapi-editor#comments</comments>
+  </item>
+  <item>
+    <title>CodeTogether</title>
+    <link>https://marketplace.eclipse.org/content/codetogether</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/codetogether-full-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-03-05 15:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2022-07-04 12:44&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add &lt;a href=&quot;https://www.codetogether.com/dOpk/&quot; rel=&quot;nofollow&quot;&gt;CodeTogether&lt;/a&gt; to Eclipse to live share your IDE and coding sessions. Cross-IDE support for Eclipse, IntelliJ, and VS Code. See changes in real time, even when coding in the same file, like Google Docs for your code. So many uses: pair programming, mob programming, code review, project design, unit testing, education, interviews, remote development and more.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Free plan with anonymous usage is always available.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Cross-IDE support.&lt;/strong&gt; Host &lt;em&gt;and &lt;/em&gt;join from Eclipse, VS Code, or IntelliJ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Browser too. &lt;/strong&gt;IDE functionality with just a URL, even edit from a phone or tablet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple and Easy. &lt;/strong&gt;See the &lt;a href=&quot;https://www.codetogether.com/XaVB/docs/getting-started-with-codetogether/&quot; rel=&quot;nofollow&quot;&gt;Getting Started Guide&lt;/a&gt; for details. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrated communications.&lt;/strong&gt; Audio, video, text chat, screen sharing, &amp;amp; more.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Secure. &lt;/strong&gt;Sessions are &lt;a href=&quot;https://www.codetogether.com/dOpk/download/security/&quot; rel=&quot;nofollow&quot;&gt;end-to-end encrypted&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-time editing. &lt;/strong&gt;See changes immediately, even when editing the same file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Host-based intelligence. &lt;/strong&gt;Exceptional content assist, validation &amp;amp; navigation for all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient. &lt;/strong&gt;No resource drain, lag time or artifacting like with screen sharing.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Shared consoles &amp;amp; terminals. &lt;/strong&gt;Host-controlled with optional write access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share local servers. &lt;/strong&gt;Expose to your guests web apps running locally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run tests.&lt;/strong&gt; Everyone gets to write, run &amp;amp; analyze tests; perfect for TDD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remote launches.&lt;/strong&gt; Guests can run applications from the host IDE.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;CodeTogether Pro. &lt;/strong&gt;The perfect upgrade for professionals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether Teams. &lt;/strong&gt;Simplifies collaboration with team-centric flows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether On-Premises.&lt;/strong&gt; &lt;a href=&quot;https://www.codetogether.com/XaVB/on-premises/&quot; rel=&quot;nofollow&quot;&gt;Deploy&lt;/a&gt; behind your firewall. Supports multi-server deployment and SSO integration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAP ABAP support. &lt;/strong&gt;Collaborate &amp;amp; live share code that resides on an SAP server.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Mar 2020 20:48:34 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">5012014 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/codetogether#comments</comments>
+  </item>
+  <item>
+    <title>ImageJ Plugin</title>
+    <link>https://marketplace.eclipse.org/content/imagej-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingnameaoh/listings&quot; title=&quot;Marcel Austenfeld&quot;&gt;Marcel Austenfeld&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-10-05 06:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2022-07-04 11:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Bio7%22&quot;&gt;Bio7&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin integrates the scientific image application ImageJ in an Eclipse view and is also part of the Bio7 application (&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;ImageJ is an open source image processing program designed for the analysis of scientific multidimensional images. Supported ImageJ images can be opened and analyzed in multiple view tabs.&lt;/p&gt;
+&lt;p&gt;ImageJ Plugins and macros are supported, too and can be installed in the plugins subfolder or the install location defined in the preferences.&lt;/p&gt;
+&lt;p&gt;Furthermore a full featured ImageJ macro editor is available to script image analysis tasks within the Eclipse environment which can be opened together with the ImageJ view in an available ImageJ perspective.&lt;/p&gt;
+&lt;p&gt;For more information visit:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bio7/EclipseImageJ1Plugin&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Bio7/EclipseImageJ1Plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ImageJ documentation and websites:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imagej.net/Welcome&quot; rel=&quot;nofollow&quot;&gt;http://imagej.net/Welcome&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/docs/guide/146.html&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/docs/guide/146.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ImageJ Release Notes: &lt;a href=&quot;https://imagej.nih.gov/ij/notes.html&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/notes.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please note: To scale the Swing parts correctly with SWT on Windows and Linux add the following vm argument to Eclipse, e.g.,:&lt;br /&gt;
+-Dsun.java2d.uiScale=1.0 (or for HighDPI: 2.0)&lt;br /&gt;
+For further UI Improvements on MacOSX , see: &lt;a href=&quot;https://github.com/Bio7/EclipseImageJ1Plugin&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Bio7/EclipseImageJ1Plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New in 1.53t (1.53.t26):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53t26&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53n (1.53.n7):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53n7&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53m (1.53.m7):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53m7&lt;/li&gt;
+&lt;li&gt;Improved the &quot;Synchronize Windows&quot; action for detached views&lt;/li&gt;
+&lt;li&gt;Added the latest  macro templates&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j44):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Improved the &#039;Detach Images&#039; menu action&lt;/li&gt;
+&lt;li&gt;Added an post activation action for detached views (&#039;Open All Images as Views&#039; action bugfix for Windows)&lt;/li&gt;
+&lt;li&gt;Improved the layout action for orthogonal stack views (in detached views)&lt;/li&gt;
+&lt;li&gt;Added an API method to invoke the &#039;Open All Images as Views&#039; action&lt;/li&gt;
+&lt;li&gt;The ImageJ macro action &#039;setLocation&#039; will now change the size and location of detached views if available&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j43):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53j43&lt;/li&gt;
+&lt;li&gt;Renamed the &#039;Detach Images&#039; menu actions&lt;/li&gt;
+&lt;li&gt;Images can now be detached in a seperate view window (&#039;Open All Images as Views&#039;)&lt;/li&gt;
+&lt;li&gt;Added &#039;Open All Images as Views&#039; action preferences (coordinates, size, etc., to layout several windows side by side, e.g., on a secondary screen)&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j35):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53j35&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j26):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated the ImageJ plugin to version 1.53j26&lt;/li&gt;
+&lt;li&gt;Detached images can now be closed in a macro by name or string argument&lt;/li&gt;
+&lt;li&gt;Improved the image close method. Now also closes detached images if opened&lt;/li&gt;
+&lt;li&gt;The color for composite images is now displayed in the status line&lt;/li&gt;
+&lt;li&gt;The image and color information for detached images is shown in the status line&lt;/li&gt;
+&lt;li&gt;Fixed the ImageWindow show method which opened a minimized JFrame, e.g., in batch mode&lt;/li&gt;
+&lt;li&gt;Added the latest macro templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53j (1.53.j7):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53j7&lt;/li&gt;
+&lt;li&gt;Improved the &quot;Zoom to Selection&quot; and Zoom &quot;To&quot; action for the embedded canvas in a tab&lt;/li&gt;
+&lt;li&gt;Improved the image close method (for the &quot;Arrange Channels&quot; action and some other plugins)&lt;/li&gt;
+&lt;li&gt;Improved the &quot;Stack to Images&quot; action now running in a job to avoid blocking UI threads&lt;/li&gt;
+&lt;li&gt;Simplified the &quot;Images to Stack&quot; action to run correctly in macros&lt;/li&gt;
+&lt;li&gt;Added a timelag for plot windows to avoid blocking threads on MacOSX&lt;/li&gt;
+&lt;li&gt;Added the latest  macro templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53i (1.53.i25):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53i25&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro editor speed. No more flickering editor markers&lt;/li&gt;
+&lt;li&gt;Added a editor hoover to display editor hex colors and an hoover action to set the hex color with a dialog.&lt;/li&gt;
+&lt;li&gt;Added a sort and collapse action to the macro editor outline view.&lt;/li&gt;
+&lt;li&gt;Added the image information (which is normally displayed in the image window) to the Eclipse status line if a tab is selected or a stack/composite slider is moved.&lt;/li&gt;
+&lt;li&gt;Added an action to change the tab title color according to the color of the selected composite image channel.&lt;/li&gt;
+&lt;li&gt;Added a new color action for the new ImageJ message display method (tab title color and toolbar color)&lt;/li&gt;
+&lt;li&gt;Improved the outline redraw action for MacOSX&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53h (1.53h.h62):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.h62&lt;/li&gt;
+&lt;li&gt;Fixed and improved the outline navigation for MacOSX&lt;/li&gt;
+&lt;li&gt;Fixed a corrupted button layout in the histogram canvas on MacOSX&lt;/li&gt;
+&lt;li&gt;Improved the debug start action&lt;/li&gt;
+&lt;li&gt;Added new ImageJ macro templates&lt;/li&gt;
+&lt;li&gt;Improved template description&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.h (1.53.h30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.h30&lt;/li&gt;
+&lt;li&gt;Improved the context menu of the ROI Manager (using SWT)&lt;/li&gt;
+&lt;li&gt;Added new ImageJ macro templates&lt;/li&gt;
+&lt;li&gt;Improved template description&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.g (1.53.g57):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.g57&lt;/li&gt;
+&lt;li&gt;Improved the main menu bar extensibility&lt;/li&gt;
+&lt;li&gt;Added new ImageJ macro templates&lt;/li&gt;
+&lt;li&gt;Improved template description&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.f (1.53.f40):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.f40&lt;/li&gt;
+&lt;li&gt;The main view menubar  can now be extended if a plugin uses the main menu of ImageJ&lt;/li&gt;
+&lt;li&gt;Replaced several AWT context and toolbar menus with SWT context menus (ImageJ toolbar, image canvas, ROI Manager Menu &quot;More&quot; and the Plots menu) which fixes several AWT glitches (Linux, HighDPI) and respects the Eclipse theme settings (e.g., dark menus on Windows)&lt;/li&gt;
+&lt;li&gt;Improved the debug display in the macro editor (color marker preferences, new arrow indicator icon)&lt;/li&gt;
+&lt;li&gt;Improved the plot button display (especially when using a dark theme)&lt;/li&gt;
+&lt;li&gt;Fixed several toolbar macro tool bugs and updated all macro tools&lt;/li&gt;
+&lt;li&gt;Fixed the context menu macro tools (&quot;Restore Startup Tools&quot; now working as it should and updates the context menu)&lt;/li&gt;
+&lt;li&gt;Added new macro function templates&lt;/li&gt;
+&lt;li&gt;Several bugfixes&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.e (1.53.e05 - Bugfix release):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a toolbar deadlock when view was attached and Eclipse reopened&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.e (1.53.e4):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.e4&lt;/li&gt;
+&lt;li&gt;Added or improved new default macro editor templates&lt;/li&gt;
+&lt;li&gt;Removed deprecated MacAdapter&lt;/li&gt;
+&lt;li&gt;Improved &#039;Split Channels&#039; for Mac&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.d (1.53.d34):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.d34&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates&lt;/li&gt;
+&lt;li&gt;Added Improved RankFilters class (thanks to Michael Schmid)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.d (1.53.d7):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.d7&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates&lt;/li&gt;
+&lt;li&gt;Improved Java 14 compiler support&lt;/li&gt;
+&lt;li&gt;Improved layout after crop operation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.c (1.53.c62):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.c62&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Added Java 14 compiler support&lt;/li&gt;
+&lt;li&gt;Fixed a deadlock in the HTMLDialog&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.c (1.53.c3):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.c3&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Fixed a HyperStack converter bug.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.a (1.53a25):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.a25&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.53.a (1.53a21):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.53.a21&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.v (1.52v19):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52v19&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u33):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u33&lt;/li&gt;
+&lt;li&gt;Fixed a version number display bug.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u29):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u29&lt;/li&gt;
+&lt;li&gt;A change of the ImageJ plugin location (&#039;Plugins Path&#039;) in the preferences now automatically updates the plugins classpath and menus (avoids to use the action &#039;Help-&amp;gt;Refresh Menus&#039; in a second step).&lt;/li&gt;
+&lt;li&gt;Fixed a Compiler path bug for Linux and MacOSX when using the Plugins-&amp;gt;&#039;Compile Java Eclipse&#039; action to compile an ImageJ plugin from the current opened Java editor.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u28):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52u28&lt;/li&gt;
+&lt;li&gt;Fixed a SWT memory bug not releasing native children of image tabs.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.u (1.52u24):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Added a new thumbnail action to the context menu of the &#039;Navigator&#039; view to open image and LUT files of a selected directory.&lt;/li&gt;
+&lt;li&gt;LUT&#039;s can now be displayed (preview) in the &#039;Thumbnails&#039; view. The selected LUT will be applied on the current supported ImageJ image (grayscale).&lt;/li&gt;
+&lt;li&gt;The Image info is now displayed as a popup in the &#039;Thumbnails&#039; view (if you hoover over an item).&lt;/li&gt;
+&lt;li&gt;Added a &#039;Detach All Images&#039; action (menu &#039;Window&#039;) to transfer all opened tab images to a view (which can be moved and arranged like a separate window)&lt;/li&gt;
+&lt;li&gt;Improved dark theme for AWT on Windows, MacOSX and Linux.&lt;/li&gt;
+&lt;li&gt;Added custom text properties to allow future dark themes or disable dark theme color schemes.&lt;/li&gt;
+&lt;li&gt;Improved the canvas layout for HighDPI displays on Windows.&lt;/li&gt;
+&lt;li&gt;Added new default macro editor templates.&lt;/li&gt;
+&lt;li&gt;Improved the default AWT fonts (using OS fonts).&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q48):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a deadlock occuring  on MacoSX when detaching image tabs.&lt;/li&gt;
+&lt;li&gt;Fixed a PlotWindow deadlock when using the action &quot;Close All&quot;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+New in 1.52.q (1.52q46):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New debug view toolbar actions availabe to easily debug ImageJ macros (without loosing editor key focus on MacOSX when an image is created or opened).&lt;/li&gt;
+&lt;li&gt;Implemented all default ImageJ debug actions as toolbar actions (one action for &#039;Trace&#039; and &#039;Fast Trace&#039;)&lt;/li&gt;
+&lt;li&gt;New debug functions available to set a variable value in debug mode.&lt;/li&gt;
+&lt;li&gt;New breakpoint actions available to set, edit, delete breakpoints and simple expression breakpoints (evaluate  boolean variable expression) in the ruler menu of the editor. Created breakpoints are automatically stored, too.&lt;/li&gt;
+&lt;li&gt;Extended the editor hoover to display the variable values when you hoover the editor. Array values will be displayed, too.&lt;/li&gt;
+&lt;li&gt;The default array value display table will be opened if you click on the debug view table column.&lt;/li&gt;
+&lt;li&gt;Implemented several text editor and toolbar changes to visualize the debugging process.&lt;/li&gt;
+&lt;li&gt;Fixed several bugs.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;See: &lt;a href=&quot;https://forum.image.sc/t/eclipse-imagej-plugin-update-released-with-improved-debugger-interface/22952/16&quot; rel=&quot;nofollow&quot;&gt;https://forum.image.sc/t/eclipse-imagej-plugin-update-released-with-impr...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New in 1.52.q (1.52q45):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a PlotWindow deadlock&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q44):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52q44&lt;/li&gt;
+&lt;li&gt;Improved the embedded and detached PlotWindows. Now all plot windows are simultaneously resized according to their parent canvas (embedded or detached)&lt;/li&gt;
+&lt;li&gt;Fixed a bug in the detach menu action (wrong id and panel settings)&lt;/li&gt;
+&lt;li&gt;Removed the &#039;*&#039; tab icon (usually indicating an unsaved editor file) from the detached custom view by deleting the &#039;ISaveablePart2&#039; interface&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q34):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a toolbar exception when the toolbar was embedded in the Image perspective and not saved detached&lt;/li&gt;
+&lt;li&gt;Fixed wrong tab colors&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52.q (1.52q30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52q30&lt;/li&gt;
+&lt;li&gt;A new integrated Eclipse ImageJ macro debug view is available as an replacement for the debug dialog (close and reopen the perspective if you update this plugin to add the new view!)&lt;/li&gt;
+&lt;li&gt;Improved the Linux dark theme GUI for embedded AWT and Swing dialogs&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro code completion in general&lt;/li&gt;
+&lt;li&gt;Editor defined variables are added to the code completion and shown according to their scope (function or macro defined variables are added when opening the code completion inside this scope. Function arguments are added, too)&lt;/li&gt;
+&lt;li&gt;Editor defined functions are added to code completion.&lt;/li&gt;
+&lt;li&gt;Editor defined function arguments are added as selectable templates&lt;/li&gt;
+&lt;li&gt;Comments and multiline comments of editor defined functions are shown in the context code completion view (must be defined above the function)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p61):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p61&lt;/li&gt;
+&lt;li&gt;Added Java 12 compiler target&lt;/li&gt;
+&lt;li&gt;Added new macro code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p36):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p36&lt;/li&gt;
+&lt;li&gt;Improved code completion to find and set functions with fixed arguments&lt;/li&gt;
+&lt;li&gt;Improved hoover information to list all functions with identical name&lt;/li&gt;
+&lt;li&gt;Added new macro code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52p (1.52p30):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52p30&lt;/li&gt;
+&lt;li&gt;Improved automatic layout correction for synchronized detached views (e.g., orthogonal views)&lt;/li&gt;
+&lt;li&gt;Improved titles of detached views to show correct titles and updates (e.g., coordinates of synchronized orthogonal views)&lt;/li&gt;
+&lt;li&gt;Improved the centering of dialogs in a multi-monitor setup (dialogs are centered in the monitor which contains the ImageJ view tabfolder)&lt;/li&gt;
+&lt;li&gt;Improved the code completion cursor location and arguments are now templates selectable with the tab key&lt;/li&gt;
+&lt;li&gt;Improved the code completion sorting of templates&lt;/li&gt;
+&lt;li&gt;Added a preference option to change the critera for code completion search to suggest function templates which contain the prefix&lt;/li&gt;
+&lt;li&gt;Added new file, directory dialogs to insert paths at the current cursor location.&lt;/li&gt;
+&lt;li&gt;Added a color and hex color dialog to select and insert color strings into the editor. Selected hex colors are displayed in the color dialog (if created before with the dialog)&lt;/li&gt;
+&lt;li&gt;Added new macro templates&lt;/li&gt;
+&lt;li&gt;Fixed several bugs (e.g., opened dialog option popups in macros, deadlock with SWT dialog in a running macro)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m28):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.52m28&lt;/li&gt;
+&lt;li&gt;Implemented dynamic plot scaling when the image tabsize changes&lt;/li&gt;
+&lt;li&gt;Reset Plot action scales plot to default values (context menu &quot;Plot Size&quot;)&lt;/li&gt;
+&lt;li&gt;Plot fullscreen scaling support&lt;/li&gt;
+&lt;li&gt;Detached tab plot scaling support&lt;/li&gt;
+&lt;li&gt;Now tabs are visible selected when a window or image is selected (before the selection occured, too but invisible for speed reasons)&lt;/li&gt;
+&lt;li&gt;Implemented the Window components menu to make hidden components visible again (ROI Manager, Threshold, etc. - apparently works on MacOSX and Windows only)&lt;/li&gt;
+&lt;li&gt;Implemented Refresh Menus (if you create and compile a new plugin in the plugins folder with Eclipse (dynamically without restart) you can refresh the menu to update the plugins menu dynamically without a restart!)&lt;/li&gt;
+&lt;li&gt;Implemented the &quot;Help-&amp;gt;Examples-&amp;gt;Autorun Examples&quot; checkbox menu (true or false)&lt;/li&gt;
+&lt;li&gt;Restored the modal dialogs on Windows&lt;/li&gt;
+&lt;li&gt;Added latest macro API templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m20):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ version 1.52m (1.52m20)&lt;/li&gt;
+&lt;li&gt;Added new macro function definitions&lt;/li&gt;
+&lt;li&gt;Zoom factor is now displayed in the image tabs&lt;/li&gt;
+&lt;li&gt;Workaround a SWT key focus loss with ImageJ on Linux (occurred on Ubuntu 18.10)&lt;/li&gt;
+&lt;li&gt;Fixed an exception when adding an image to a stack (action &quot;Add Slice&quot;) of size 1&lt;/li&gt;
+&lt;li&gt;Detached tab images are now closed, too when using the &quot;File-&amp;gt;Close All&quot; view menu action&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52m (1.52m12):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ version 1.52m (1.52m12)&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ canvas (Plot canvas and Image canvas are now opened as intended)&lt;/li&gt;
+&lt;li&gt;Improved plot canvas (zooming, actions, etc. are now working as intended)&lt;/li&gt;
+&lt;li&gt;Plot action buttons are now added below the each plot&lt;/li&gt;
+&lt;li&gt;Added new actions to interpret the current opened Eclipse editor sources (BeanShell, JavaScript, Jython and ImageJ macro) using the ImageJ interpreters (using, e.g., PyDev for Jython).&lt;/li&gt;
+&lt;li&gt;Added a new Java compile action to compile the current opened Eclipse editor source (ImageJ plugins, etc.)&lt;/li&gt;
+&lt;li&gt;MouseWheel actions are now working as intended (use STRG+MousWheel to zoom!)&lt;/li&gt;
+&lt;li&gt;Improved stability for drag and drop of multiple image files&lt;/li&gt;
+&lt;li&gt;Improved stability for MacOSX&lt;/li&gt;
+&lt;li&gt;Reorganized Eclipse plugins and features&lt;/li&gt;
+&lt;li&gt;ImageJ2 can now be optionally installed and is not bundled by default (now optional dependent of ImageJ). Customization is possible (plugin can be populated with maven command in Eclipse)&lt;/li&gt;
+&lt;li&gt;Added the latest ImageJ macro function templates&lt;/li&gt;
+&lt;li&gt;JavaFX (embed Swing in JavaFX and SWT panel) can now be optionally installed (but is not necessary by default)&lt;/li&gt;
+&lt;li&gt;Removed the outdated Albireo plugin dependency&lt;/li&gt;
+&lt;li&gt;Added key listener for the tab when all images are closed (ImageJ keys!)&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ macro hoover (workaround for SWT_AWT)&lt;/li&gt;
+&lt;li&gt;Added a workaround for repaint issues in MacOSX when switching perspectives with SWT_AWT&lt;/li&gt;
+&lt;li&gt;Added a workaround for MacOSX to receive key events again after focus lost (sometimes you need to press the mouse two times when the perspectives have been switched)&lt;/li&gt;
+&lt;li&gt;Fixed several rare occuring deadlock events on MacOSX&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52h (1.52h5):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.52h (1.52h5)&lt;/li&gt;
+&lt;li&gt;Added a new rename action (rename all words like the current selection - multiple cursor)&lt;/li&gt;
+&lt;li&gt;Improved dark theme with popular Eclipse darkest dark theme and default dark theme&lt;/li&gt;
+&lt;li&gt;Editor colors are automatically switched when using the dark theme (or darkest dark theme)&lt;/li&gt;
+&lt;li&gt;ImageJ toolbar improved for the dark theme&lt;/li&gt;
+&lt;li&gt;Added a new ImageJ detach image menu in the ‘Window’ menu of the ImageJ-Canvas view&lt;/li&gt;
+&lt;li&gt;Added all new ImageJ macro API functions to the code completion of the macro editor&lt;/li&gt;
+&lt;li&gt;Improved the ImageJ MacOSX touchpad resizing of the ImageJ panel&lt;/li&gt;
+&lt;li&gt;Improved the default font size for Swing components on Retina displays (e.g., ImageJ components - can be changed in the preferences)&lt;/li&gt;
+&lt;li&gt;Added some new macro source actions (Block Selection, Find And Replace, etc. - submenu Text ) to the macro editor&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.52c12:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.52c12&lt;/li&gt;
+&lt;li&gt;Updated ImageJ2 libraries (pom-scijava 20.0.0)&lt;/li&gt;
+&lt;li&gt;Added recent macro API commands to code completion&lt;/li&gt;
+&lt;li&gt;Fixed some minor bugs (hoover offset, Linux awt dialogs etc.)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51u54:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated to ImageJ 1.51u54&lt;/li&gt;
+&lt;li&gt;Fixed lost keyboard focus for key shortcuts&lt;/li&gt;
+&lt;li&gt;Improved preferences for Swing fonts (to decrease on Retina displays)&lt;/li&gt;
+&lt;li&gt;Several other fixes for MacOSX&lt;/li&gt;
+&lt;li&gt;Added description for increased fonts for MacOSX (see Github page!)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51u20:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Cluttered MACOSX menus are now closed (added from opened application windows and frames). Some default added menus are disabled in the Bio7 preferences by default&lt;/li&gt;
+&lt;li&gt;Code completion (template) action now displays the macro documentation and context information when typing&lt;/li&gt;
+&lt;li&gt;Improved code completion layout (context information)&lt;/li&gt;
+&lt;li&gt;Added debug context menu actions to the macro editor&lt;/li&gt;
+&lt;li&gt;Added some other context menu actions, too (&#039;Get Macro Recorder Text&#039;, &#039;Evaluate Line&#039;)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51s24:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Updated ImageJ plugin to version 1.51.s24&lt;/li&gt;
+&lt;li&gt;Code completion (templates) action now displays the macro documentation when typing&lt;/li&gt;
+&lt;li&gt;Code completion context information improved&lt;/li&gt;
+&lt;li&gt;Images from macros are now opened fast (before had a 2s delay because of a missing attribute)&lt;/li&gt;
+&lt;li&gt;MacOSX extra menu disabled (avoids a cluttered menu)&lt;/li&gt;
+&lt;li&gt;Macros can now be executed within an external ImageJ instance in a separate Java process (if enabled in the preference - see screenshot 2 below)&lt;/li&gt;
+&lt;li&gt;Added JavaFX library reference for Java9&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p4 (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a bug to rename the &#039;Results&#039; table&lt;/li&gt;
+&lt;li&gt;Fixed a key shortcut bug&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p3 (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;    Improved the grammar&lt;/li&gt;
+&lt;li&gt;    Added an action to transfer the ImageJ macro recorder text to the selected line in the macro editor (CTRL+SHIFT+R, CMD+SHIFT+R)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p (bugfix):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Fixed a bug to control dialogs&lt;/li&gt;
+&lt;li&gt;Fixed a Linux code templates bug&lt;/li&gt;
+&lt;li&gt;Added more code completion templates&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51p:&lt;/p&gt;
+&lt;p&gt;In this relase a macro editor and ImageJ perspective have been added to the ImageJ plugin. In addition the menu of the ImageJ plugin is now right assigned and the toolbar resizes dynamically.&lt;/p&gt;
+&lt;p&gt;The editor has the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;    Dynamic error detection (grammar derived from the ECMA grammar by Bart Kiers)&lt;/li&gt;
+&lt;li&gt;    Toolbar action to execute ImageJ macros&lt;/li&gt;
+&lt;li&gt;    Syntax highlightening&lt;/li&gt;
+&lt;li&gt;    Debugging support (reusing and implementing interfaces and methods from ImageJ - same keyboard shortcuts - see animation below)&lt;/li&gt;
+&lt;li&gt;    Code completion (with browser help)&lt;/li&gt;
+&lt;li&gt;    Code templates (add you own templates)&lt;/li&gt;
+&lt;li&gt;    Info popups (text hoover)&lt;/li&gt;
+&lt;li&gt;    Outline view (var variables, variables, methods and macros)&lt;/li&gt;
+&lt;li&gt;    Automatic closing of braces, parentheses and strings Automatic indention of functions,loops, etc.&lt;/li&gt;
+&lt;li&gt;    Code folding&lt;/li&gt;
+&lt;li&gt;    Code formatting (based on the Eclipse-javascript-formatter by Sebastian Moran)&lt;/li&gt;
+&lt;li&gt;    Resize fonts functions (with Ctrl++ or CMD++, CTRL+- or CMD +-)&lt;/li&gt;
+&lt;li&gt;    Font preferences&lt;/li&gt;
+&lt;li&gt;    Mark occurences (scope independant)&lt;/li&gt;
+&lt;li&gt;    A copy function for this forum&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;New in 1.51n:&lt;/p&gt;
+&lt;p&gt;* Added a fake editor to register and open standard image files from the Navigator or Project Explorer, etc in the ImageJ view.&lt;/p&gt;
+&lt;p&gt;* Fixed several image conversion bugs&lt;/p&gt;
+&lt;p&gt;* Moved plugin update site to github (if you have an old installation please uninstall the old plugins first before you install from this location!)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Oct 2016 10:59:26 +0000</pubDate>
+ <dc:creator>mmisingnameaoh</dc:creator>
+ <guid isPermaLink="false">3103502 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/imagej-plugin#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse class file browser</title>
+    <link>https://marketplace.eclipse.org/content/eclipse-class-file-browser</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/default_images/no_image.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/fabianditaranto/listings&quot; title=&quot;Fabian Di Taranto&quot;&gt;Fabian Di Taranto&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2022-06-03 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2022-07-04 09:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22OST%20-%20Ostschweizer%20Fachhochschule%22&quot;&gt;OST - Ostschweizer Fachhochschule&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Eclipse class file browser is a plugin for Eclipse, which allows for more comfortable viewing of Java class files than the supplied class file viewer.&lt;/p&gt;
+&lt;p&gt;The installation can be done through the regular update mechanism in eclipse.&lt;/p&gt;
+&lt;p&gt;Get the plugin from the update site:&lt;br /&gt;&lt;a href=&quot;https://update.libusb-java.ch/&quot; rel=&quot;nofollow&quot;&gt;https://update.libusb-java.ch/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Look out for the plugin&#039;s wiki here:&lt;br /&gt;&lt;a href=&quot;https://gitlab.ost.ch/tech/inf/public/eclipse-class-file-browser/-/wikis/home&quot; rel=&quot;nofollow&quot;&gt;https://gitlab.ost.ch/tech/inf/public/eclipse-class-file-browser/-/wikis...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Look out for the plugin&#039;s source code here:&lt;br /&gt;&lt;a href=&quot;https://gitlab.ost.ch/tech/inf/public/eclipse-class-file-browser&quot; rel=&quot;nofollow&quot;&gt;https://gitlab.ost.ch/tech/inf/public/eclipse-class-file-browser&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 03 Jun 2022 12:00:24 +0000</pubDate>
+ <dc:creator>fabianditaranto</dc:creator>
+ <guid isPermaLink="false">1510017 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/eclipse-class-file-browser#comments</comments>
+  </item>
+  </channel>
+</rss>
